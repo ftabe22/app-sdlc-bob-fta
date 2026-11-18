@@ -2,7 +2,7 @@
 Application SDLC Bob FTA
 
 ## Como rodar e fazer build
-1. Clone o repositório: abacaxi
+1. Clone o repositório:
 
 2. Instale as dependências e execute o build:
 
